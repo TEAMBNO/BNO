@@ -8128,7 +8128,7 @@ Text = [[
 *- BNo 𝖳𝖤𝖠𝖬 .*
  — — — — — — — — — 
      
-[𖣻︙BOn 𝗌𝗈𝗎𝗋𝖼𝖾  .](http://t.me/lRIRIRI)
+[𖣻︙BNo 𝗌𝗈𝗎𝗋𝖼𝖾  .](http://t.me/lRIRIRI)
        
 [𖣻︙ 𝚝𝚆𝚂𝙻 𝚂𝚘𝚞𝚛𝚌𝚎](http://t.me/TwSLBNoBot)
      
