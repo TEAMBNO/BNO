@@ -1,6 +1,6 @@
 <h1 align="center">    BNO Source</h1>
 <p align="center">
-<img src="https://ibb.co/V3KMLfx"></p>
+<img src="https://ibb.co/k3ZhmDz"></p>
 ______________________________________________________________________________________________________________________
 
 ## How to install the bot
